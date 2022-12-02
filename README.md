@@ -10,29 +10,3 @@ Si deseas participar en la próxima edición, agéndate aquí: bit.ly/3udC4xP
 
 # Agenda
 9 al 16 de diciembre días hábiles.
-
-Webinars:
-
-Viernes, 9 de dic.
-3:00pm COL
-Orador: Christian Rodiek
-Empresa: Firma Virtual
-Tema: Tecnología Blockchain y firmas virtuales
-
-Martes, 13 de dic.
-6:00pm COL
-Orador: Francisca Jiménez
-Empresa: Paygol
-Tema: ¿Cuáles son los beneficios de una pasarela de pago y por qué usarlas?
-
-Miercoles, 14 de dic.
-4:00pm COL
-Orador: Dov Zellerkraut
-Empresa: Reblaze
-Tema: Seguridad en las aplicaciones Fintech
-
-Jueves, 15 de dic.
-5:00pm COL
-Orador: Santiago García
-Empresa: Finerio Connect
-Tema: OpenBanking, ¿cómo revolucionar en las Fintech?
