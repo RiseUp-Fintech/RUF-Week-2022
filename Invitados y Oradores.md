@@ -1,6 +1,7 @@
 # Invitados
 
-<p><img align="center" src="https://user-images.githubusercontent.com/116225109/205342566-e68b04b8-ee03-4aed-837a-c30d2cdbc42d.png") height="auto" width="auto"></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/116225109/205342566-e68b04b8-ee03-4aed-837a-c30d2cdbc42d.png") height="medium
+ " width="medium"></p>
 ![Angel Ramírez Invitado](https://user-images.githubusercontent.com/116225109/205342715-4a83eacf-cc39-4477-86cc-a4b7d0288194.png)
 
 # Oradores
